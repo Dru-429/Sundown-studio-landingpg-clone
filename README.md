@@ -2,7 +2,7 @@
 
 A sleek and modern clone of the Sundown Studio landing page, featuring smooth scrolling, responsive design, 2D animated elements, a loading page, swiping elements, and interactive buttons.
 
-**Check out site** ()         
+**Check out site** (https://dru-sundown-studio-clone.web.app/)         
 on phone...no problem it is a awesome responsive website 
 
 **Technologies Used:**
