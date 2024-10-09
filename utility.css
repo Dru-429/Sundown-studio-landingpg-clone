@@ -1,0 +1,20 @@
+.flex{
+    display: flex;
+    align-items:center ;
+}
+
+.space{
+    padding-top: 100px;
+}
+
+.p1{
+    padding: 0vw 2vw;
+}
+
+.z100{
+    z-index: 100;
+}
+
+.space{
+    padding: 100px;
+}
